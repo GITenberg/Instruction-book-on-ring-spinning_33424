@@ -1,0 +1,25 @@
+_repo: Instruction-book-on-ring-spinning_33424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Francis L.
+    gutenberg_agent_id: '36400'
+    url: http://www.gutenberg.org/2009/agents/36400
+description: ''
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33424'
+  lccn: 08037284
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Spinning'
+title: Instruction book on ring spinning
+url: http://www.gutenberg.org/ebooks/33424
